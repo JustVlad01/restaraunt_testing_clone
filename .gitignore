@@ -1,0 +1,7 @@
+package-lock.json
+node_modules
+/.idea/jsLibraryMappings.xml
+./.env
+./admin/.env
+./client/.env
+/.idea
